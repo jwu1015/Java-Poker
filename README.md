@@ -1,3 +1,7 @@
+In spring of 2023, I created a multiplayer poker game, with graphics integrated with java-swing.a part of my highschool AP computer science class semester 1 final project. The goal of the project was to create a simple board/card game in java. I decided to learn and implemeent java swing.
+
+The final product was free of bugs and a very accessible user interface, and ended up getting a 100% score based on both the teacher's careful examination, as well as extensive testing from other students in the class.
+
 This is a variation of Texas-hold'em poker.
 https://www.partypoker.com/en/how-to-play/texas-holdem
 
